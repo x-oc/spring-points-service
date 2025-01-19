@@ -1,0 +1,26 @@
+.button-group {
+    border-radius: 4px;
+    overflow: hidden;
+    margin: 5px;
+}
+
+.button {
+    padding: 10px 15px;
+    background-color: #fff;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.2s ease;
+}
+
+.button:hover {
+    background-color: #f0f0f0;
+}
+
+.active-button {
+    background-color: #007bff;
+    color: white;
+}
+.active-button:hover{
+    background-color: #0056b3;
+}

@@ -1,0 +1,9 @@
+:root {
+    --background-color: #dddddd;
+    --text-color: black;
+    --main-color: gray;
+    --opacity-color: rgba(255, 255, 255, 0.2);
+
+    --valid-color: #35fb1e;
+    --invalid-color: #FF0000FF;
+}
